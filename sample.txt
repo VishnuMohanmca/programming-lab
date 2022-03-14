@@ -1,0 +1,3 @@
+ms dhoni 40
+virat kohli 33
+rohit sharma 35
